@@ -1,0 +1,20 @@
+# Build artifacts
+*.o
+*.out
+lab01_O0
+lab01_O2
+lab01
+lab02
+lab02_O0
+lab02_O2
+
+# Or simpler: ignore all compiled binaries by pattern
+# (but this is risky — depends on naming)
+# lab*
+
+# Editor / OS junk
+*.swp
+*~
+.DS_Store
+.vscode/
+.idea/
